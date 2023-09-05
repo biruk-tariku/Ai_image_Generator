@@ -1,4 +1,4 @@
-const API_KEY = "**** ENTER YOUR Chat_gpt_API KEY *****"
+const API_KEY = "**** ENTER YOUR Chat_gpt_API_KEY_Here ******"
 const submitionicon = document.querySelector("#submit-icon")
 const inputElement = document.querySelector("input")
 const imageSection = document.querySelector('.images-section')

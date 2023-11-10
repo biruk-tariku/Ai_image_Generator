@@ -3,6 +3,7 @@ const submitionicon = document.querySelector("#submit-icon")
 const inputElement = document.querySelector("input")
 const imageSection = document.querySelector('.images-section')
 
+
 const getImages = async () => {
     const Options = {
         method: "POST",
